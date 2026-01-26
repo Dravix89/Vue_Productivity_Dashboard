@@ -4,6 +4,9 @@
 
 A simple productivity dashboard built with Vue 3, TypeScript, Pinia and Tailwind CSS.
 
+Email : test@example.com 
+Password : 123456
+
 ## Features
 
 - Login system (fake authentication)
